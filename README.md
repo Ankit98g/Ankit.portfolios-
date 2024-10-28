@@ -1,2 +1,2 @@
-sql capstone project
+power bi project
 
